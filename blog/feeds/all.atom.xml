@@ -764,8 +764,8 @@ def autoguess(ev):
 document["but4"].bind("click", autoguess)
 &lt;/script&gt;
 &lt;button id="but4"&gt;利用程式玩猜數字&lt;/button&gt;
-&lt;/pre&gt;</content><category term="Brython"></category></entry><entry><title>耶誕快樂</title><link href="./ye-dan-kuai-le.html" rel="alternate"></link><published>2016-12-23T13:00:00+08:00</published><updated>2016-12-23T13:00:00+08:00</updated><author><name>40523106</name></author><id>tag:None,2016-12-23:./ye-dan-kuai-le.html</id><summary type="html">&lt;p&gt;耶誕快樂&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;耶誕快樂&lt;/p&gt;
+&lt;/pre&gt;</content><category term="Brython"></category></entry><entry><title>耶誕快樂</title><link href="./ye-dan-kuai-le.html" rel="alternate"></link><published>2016-12-23T13:00:00+08:00</published><updated>2016-12-23T13:00:00+08:00</updated><author><name>40523106</name></author><id>tag:None,2016-12-23:./ye-dan-kuai-le.html</id><summary type="html">&lt;p&gt;耶誕快樂!&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;耶誕快樂!&lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
